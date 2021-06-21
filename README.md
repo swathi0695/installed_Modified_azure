@@ -1,0 +1,2 @@
+# stackstorm
+Automation related code

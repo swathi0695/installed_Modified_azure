@@ -1,0 +1,12 @@
+---
+ref: startVM
+name : StartVM
+description : Starts VM
+keywords:
+  - Azure
+  - StartVM
+version: 0.0.1
+python_versions:
+  - "2"
+author : Infracode
+email : ustmayanotification@gmail.com

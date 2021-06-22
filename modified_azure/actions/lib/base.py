@@ -51,7 +51,9 @@ VM_REFERENCE = {
 }
 
 class AzureBaseAction(Action):
-
+	def __init__(self, config):
+		super(AzureBaseAction, self).__init__(config=config)
+		
 	def get_credentials():
 		
 		subscription_id = os.environ['AZURE_SUBSCRIPTION_ID']

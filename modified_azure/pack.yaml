@@ -1,10 +1,10 @@
 ---
-ref: startVM
-name : StartVM
-description : Starts VM
+ref: modified_azure
+name : Modified_Azure
+description : Pack for rectifying the certificate issue
 keywords:
   - Azure
-  - StartVM
+  - modified
 version: 0.0.1
 #python_versions:
 # - "2"
